@@ -31,7 +31,7 @@
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/あなたのユーザー名/banei-ai-predictor.git
+git clone https://github.com/zatrie78/banei-ai-predictor.git
 cd banei-ai-predictor
 
 # 必要なライブラリをインストール
