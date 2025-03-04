@@ -1,0 +1,4 @@
+# 一時ファイルとログ
+data/
+logs/
+debug_race_page.html
